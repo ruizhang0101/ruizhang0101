@@ -1,6 +1,8 @@
 ### 👋 About Me
 Hi there, this is **Rui Zhang**. Please feel free to contact me: rzhan229@ucsc.edu
 
+**Homepage: https://ruizhang0101.github.io/**
+
 I'm currently a PhD student in UCSC. My research interests are mainly about system for ML/AI, recently I am working on model serving/inferencing system. 
 
 **:mortar_board: Education** 
